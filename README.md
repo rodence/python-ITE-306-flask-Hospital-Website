@@ -98,7 +98,6 @@ Creating a Hospital Website using Flask Framework
 ![Screenshot (92)](https://user-images.githubusercontent.com/113341443/194739483-7b55086d-5c3d-493d-81b9-7599382836a9.png)
 ![Screenshot (93)](https://user-images.githubusercontent.com/113341443/194739484-fd6af4a6-6800-42ba-b05f-af37c0a697d7.png)
 ![Screenshot (80)](https://user-images.githubusercontent.com/113341443/194739485-811d96f9-3da9-423d-aa28-821a8f3a5a57.png)
-![Screenshot (81)](https://user-images.githubusercontent.com/113341443/194739489-a266cd6a-b0d9-419a-867f-fd6dd93e3239.png)
 ![Screenshot (82)](https://user-images.githubusercontent.com/113341443/194739490-d2c21bb0-4f6a-44d2-931d-2efb6805f43a.png)
 ![Screenshot (83)](https://user-images.githubusercontent.com/113341443/194739492-9b4a94b2-d918-4f98-ab7e-c0518e925ec4.png)
 ![Screenshot (84)](https://user-images.githubusercontent.com/113341443/194739494-d0e2d0b2-9212-4936-82b9-10dffd9086f4.png)
